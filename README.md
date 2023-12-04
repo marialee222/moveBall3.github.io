@@ -1,6 +1,4 @@
 # moveBall3
-Simulating Ball Movement
-
 ## Simulating Ball Movement
 Simulation link: [3 bouncing balls](https://marialee222.github.io/moveBall3.github.io/moveBall3.html)
 Simple three bouncing balls were created by using HTML, CSS, and JavaScript.
