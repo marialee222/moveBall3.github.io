@@ -3,7 +3,7 @@
 ### moveBall3
 Simulation link: [3 bouncing balls](https://marialee222.github.io/moveBall3.github.io/moveBall3.html)
 
-Simple three bouncing balls were created by using HTML, CSS, and JavaScript.
+Three bouncing balls in a box area were created by using HTML, CSS, and JavaScript.  The area of the bouncing balls was set and simple design and functionality added.
 
 No installation or setup instructions.
 
