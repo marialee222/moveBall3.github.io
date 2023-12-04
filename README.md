@@ -1,5 +1,6 @@
-# moveBall3
+# MIT xPRO Fullstack Development
 ## Simulating Ball Movement
+### moveBall3
 Simulation link: [3 bouncing balls](https://marialee222.github.io/moveBall3.github.io/moveBall3.html)
 
 Simple three bouncing balls were created by using HTML, CSS, and JavaScript.
@@ -8,7 +9,7 @@ No installation or setup instructions.
 
 This project can be used to:
 1) decide the area where the bouncing balls will perform bouncing
-2) 2) design the bouncing balls and add some bouncing functionality to them
+2) design the bouncing balls and add some bouncing functionality to them
 
 Please comment to leave general comments or questions.  You can suggest changes that I can apply directly from your comment.
 
