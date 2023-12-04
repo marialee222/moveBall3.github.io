@@ -6,9 +6,11 @@ Simple three bouncing balls were created by using HTML, CSS, and JavaScript.
 
 No installation or setup instructions.
 
-This project can be used to 1) decide the area where the bouncing balls will perform bouncing, 2) design the bouncing balls and add some bouncing functionality to them. 
+This project can be used to:
+1) decide the area where the bouncing balls will perform bouncing
+2) 2) design the bouncing balls and add some bouncing functionality to them
 
-You can comment to leave general comments or questions.  You can suggest changes that I can apply directly from your comment.
+Please comment to leave general comments or questions.  You can suggest changes that I can apply directly from your comment.
 
 Future iterations will include features to make it interactive. 
 
